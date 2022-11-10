@@ -1,0 +1,9 @@
+console.log("Welcome to my secret diary !")
+
+const name = prompt("What's your name ?");
+
+if (name === "David") {
+  console.log("I really wanna stay at your house, and i hope this works out");
+} else {
+  console.log("Get away !");
+}
